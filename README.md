@@ -1,2 +1,5 @@
 # Motor-a-combustao-interna-de-dois-tempos
 Este trabalho estudou o valor de convergência da velocidade angular de um motor a combustão interna de dois tempos simplificado, descrito por um sistema de EDOs. Para tanto, foram aplicados os métodos numéricos de Euler, Heun, Runge-Kutta de quarta ordem e Runge-Kutta-Fehlberg e analisou-se a resposta segundo a quantidade de passos e o valor do passo h, buscando também, qualificar os métodos segundo a precisão. Por fim, todos os métodos se mostraram eficazes para solucionar o problema proposto.
+
+# Numerical Methods applied to the solution of a two-strokes internal combustion engine
+This work studied the convergence value of the angular speed of a simplified two-stroke internal combustion engine, described by an ODE system. For that, the numerical methods of Euler, Heun, Runge-Kutta of fourth order and Runge-Kutta-Fehlberg were applied and the response was analyzed according to the number of steps and the value of step h, also seeking to qualify the methods according to the accuracy. Finally, all methods proved to be effective in solving the proposed problem.
